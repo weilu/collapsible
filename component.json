@@ -1,0 +1,16 @@
+{
+  "name": "collapsible",
+  "repo": "weilu/collapsible",
+  "description": "Given a hash with keys mapping to scores, and the number  of slots to fit the keys in, return the collapsed array of keys.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "timoxley/assert": "*",
+    "component/min": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "scripts": [
+    "index.js"
+  ]
+}
